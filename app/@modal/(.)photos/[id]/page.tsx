@@ -3,5 +3,5 @@ export default function PhotoModal({
 }: {
     params: { id: string }
 }) {
-    return <div className="absolute inset-0 h-full w-full bg-black">reij</div>
+    return <div className="absolute inset-0 h-full w-full bg-black">MODAL SHOWING</div>
 }
